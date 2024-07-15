@@ -1,0 +1,20 @@
+.root {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.east {
+  position: absolute;
+  left: 8.3984%;
+  right: 8.3984%;
+  top: 6.2695px;
+  height: 17.4609px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

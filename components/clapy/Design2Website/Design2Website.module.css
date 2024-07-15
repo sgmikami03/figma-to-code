@@ -1,0 +1,250 @@
+.box.box {
+  left: 235px;
+  top: 184px;
+}
+._1._1 {
+  background-image:/* webpackIgnore: true */ url('/sample1.png');
+}
+.box2.box2 {
+  left: 645px;
+  top: 644px;
+}
+._4._4 {
+  background-image:/* webpackIgnore: true */ url('/sample1.png');
+}
+._12 {
+  color: #262626;
+  font-size: 72px;
+  font-weight: bold;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.phasellusVitae {
+  color: #262626;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 250px;
+  height: min-content;
+  flex-direction: column;
+}
+.quisque {
+  color: #262626;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 250px;
+  height: min-content;
+  flex-direction: column;
+}
+.porttitorVitaeVelAmet {
+  color: #262626;
+  font-size: 18px;
+  font-weight: 350;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  width: 250px;
+  height: min-content;
+  flex-direction: column;
+}
+.box3.box3 {
+  left: 645px;
+  top: 184px;
+}
+.rectangle4206.rectangle4206 {
+  background-color: #f9b800;
+}
+._2._2 {
+  background-image:/* webpackIgnore: true */ url('/sample1.png');
+}
+._13 {
+  color: #262626;
+  font-size: 72px;
+  font-weight: bold;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._14 {
+  color: #fff;
+  font-size: 72px;
+  font-weight: bold;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.phasellusVitae2 {
+  color: #262626;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 250px;
+  height: min-content;
+  flex-direction: column;
+}
+.quisque2 {
+  color: #262626;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 250px;
+  height: min-content;
+  flex-direction: column;
+}
+.porttitorVitaeVelAmet2 {
+  color: #262626;
+  font-size: 18px;
+  font-weight: 350;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  width: 250px;
+  height: min-content;
+  flex-direction: column;
+}
+.box4.box4 {
+  left: 235px;
+  top: 644.0002px;
+}
+.rectangle42062.rectangle42062 {
+  background-color: #f9b800;
+}
+._3._3 {
+  background-image:/* webpackIgnore: true */ url('/sample1.png');
+}
+._15 {
+  color: #262626;
+  font-size: 72px;
+  font-weight: bold;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._16 {
+  color: #fff;
+  font-size: 72px;
+  font-weight: bold;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.phasellusVitae3 {
+  color: #262626;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 250px;
+  height: min-content;
+  flex-direction: column;
+}
+.quisque3 {
+  color: #262626;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 250px;
+  height: min-content;
+  flex-direction: column;
+}
+.porttitorVitaeVelAmet3 {
+  color: #262626;
+  font-size: 18px;
+  font-weight: 350;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: capitalize;
+  width: 250px;
+  height: min-content;
+  flex-direction: column;
+}
+.root {
+  position: relative;
+  width: 1920px;
+  height: 1273px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #f9b80014, #fff;
+  overflow: hidden;
+}
+.rectangle1 {
+  transform-origin: top left;
+  position: absolute;
+  left: 110px;
+  top: 106px;
+  width: 1700px;
+  height: 1027px;
+  border-radius: 100px;
+  background-color: #262626;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.frame46 {
+  position: absolute;
+  left: 1115px;
+  top: calc(50% - 0.5px);
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 60px;
+  transform: translateY(-50%);
+}
+.frame28 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 20px;
+}
+.quisquePorttitorVitaeVelAmetNe {
+  color: #f9b800;
+  font-size: 20px;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.02em;
+  width: 552.0632px;
+  height: min-content;
+  flex-direction: column;
+}
+.cursusIntegerConseqAliquamTris {
+  width: 530px;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: Segoe UI, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
